@@ -41,7 +41,7 @@ Note: Do not execute both proxy.js and proxy-exec.js. That will throw an error s
 
 f. Navigate to localhost on your browser.
 You should be able to see the following message on your web page.
-(ServerImage)
+[](https://github.com/vinay92/Devops-HW3/blob/master/ServerImage)
 
 g. The port number keeps varying for each request since each requests are alternated between ports 3000 and 3001. This can be extended for any number of servers. 
 
