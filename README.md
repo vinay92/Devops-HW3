@@ -2,7 +2,7 @@
 
 ## Setting up the Repository:
 In order to set up the repository execute the following steps:
-1. Clone this repository. 
+1. Clone this repository
 2. cd into the directory
 3. Run the following command to download the required modules:
 ```
@@ -16,7 +16,6 @@ This sets up the required modules in the folder.
 2. In a new terminal execute the following command:
 ```
 node main.js 3000
-
 ```
 3. Repeat the same for port 3001 in a different terminal
 Note: you can do this in the same terminal as well. Use '&' at the end of the command:
